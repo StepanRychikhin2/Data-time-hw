@@ -1,0 +1,17 @@
+{
+  "name": "data-time-hw",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/StepanRychikhin2/Data-time-hw",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html --public-url /Data-time-hw"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^6.1.1",
+    "parcel": "^2.11.0"
+  }
+}
